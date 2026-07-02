@@ -10,7 +10,10 @@ LUMINA Talent OS is not a keyword filter; it is a sophisticated intelligent OS s
 Key Technical Components:
 
 -Vector Semantics Generation: Skips keyword optimization through structural semantics analysis with the use of Generative AI embeddings.
+
 -Unsupervised K-Means Tiering: Automatically clusters candidate populations into Tier 1 (Perfect Fit), Tier 2 (Potential Fit), and Tier 3 (Skill Gap) according to vector proximity in multidimensional space.
+
 -Optimization Simulator: In-built mathematical engine that allows recruiting to play out various hiring scenarios without damaging database filters.
+
 -Data Analytics Tool: Heatmaps and OLS regression analysis showing exact discrepancies between old ATS systems and semantic matches.
 
