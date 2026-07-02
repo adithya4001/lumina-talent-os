@@ -204,7 +204,7 @@ with tab2:
         st.markdown("</div>", unsafe_allow_html=True)
     with col_resumes:
         st.markdown("<div class='glass-card'><h4>Candidate Data Pool</h4>", unsafe_allow_html=True)
-        st.file_uploader("Upload Profiles (Max 1GB / JSON, CSV, PDF)", type=['csv', 'json', 'pdf', 'docx', 'zip'], accept_multiple_files=True)
+        st.file_uploader("Upload Profiles (Max 1GB / JSON, CSV, PDF)", type=['csv', 'json', 'pdf', 'docx', 'zip','jsonl'], accept_multiple_files=True)
         st.markdown("<h4 style='margin-top: 15px;'>Shortlist Constraint</h4>", unsafe_allow_html=True)
         st.session_state.top_n = st.selectbox("Target N Shortlist:", options=list(range(50, 5050, 50)))
         st.markdown("</div>", unsafe_allow_html=True)
