@@ -1,0 +1,6 @@
+python-docx
+pandas
+numpy
+streamlit
+google-generativeai
+scikit-learn
