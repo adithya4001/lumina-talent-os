@@ -1,4 +1,4 @@
-# lumina-talent-os
+# LUMINA TALENT OS
 Intelligent Candidate Discovery & Ranking Platform
 
 The Core Problem:
