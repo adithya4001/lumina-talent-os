@@ -7,12 +7,12 @@
 # ============================================================================
 # Team identity
 # ============================================================================
-team_name: "your-team-name-here"  # Used in leaderboard and announcements
+team_name: "The Visionary"  # Used in leaderboard and announcements
 
 primary_contact:
-  name: "Full Name"
-  email: "primary@example.com"   # Used for all organizer communication
-  phone: "+91-XXXXXXXXXX"        # Used for top-50 / top-10 outreach
+  name: "Vuppu Adithya Kumar"
+  email: "vuppuadithyakumar@gmail.com"   # Used for all organizer communication
+  phone: "+91-9346688809"        # Used for top-50 / top-10 outreach
 
 team_members:
   - name: "Member 1 Full Name"
